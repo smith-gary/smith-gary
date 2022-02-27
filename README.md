@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=smith-gary)](https://github.com/smith-gary/github-readme-stats)
+
 <!--
 **smith-gary/smith-gary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
