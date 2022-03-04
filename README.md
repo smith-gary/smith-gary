@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 🔭 I’m currently working on a capstone project!
-* 🌱 I’m currently learning Spring Boot.
+* 🌱 I’m currently learning anything and everything.
 * 📫 How to reach me: 
   Email: gary.d.smith99@gmail.com
   LinkedIn https://www.linkedin.com/in/gary-d-smith/
