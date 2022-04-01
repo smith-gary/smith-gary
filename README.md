@@ -1,6 +1,6 @@
 ### Hi there 👋
-* 🔭 I’m currently working on a capstone project!
-* 🌱 I’m currently learning anything and everything.
+* 🔭 I’m currently working on C# and AWS!
+* 🌱 I’m currently learning other backend languages.
 * 📫 How to reach me: 
   Email: gary.d.smith99@gmail.com
   LinkedIn https://www.linkedin.com/in/gary-d-smith/
