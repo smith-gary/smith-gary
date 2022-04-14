@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 🔭 I’m currently working on a garden design web application.
-* 🌱 I’m currently learning React.
+* 🌱 I’m currently learning React and PHP.
 * 📫 How to reach me: 
   Email: gary.d.smith99@gmail.com
   LinkedIn https://www.linkedin.com/in/gary-d-smith/
