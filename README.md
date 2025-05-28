@@ -1,12 +1,6 @@
 ### Hi there 👋
-* 🔭 I’m currently working struts1/2, jQuery, weblogic project.
-* 🌱 I’m currently learning React, Angular, Struts1/2 and weblogic.
-* 📫 How to reach me: 
   Email: gary.d.smith99@gmail.com
   LinkedIn https://www.linkedin.com/in/gary-d-smith/
-
-[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=smith-gary)](https://github.com/smith-gary/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smith-gary&layout=compact)](https://github.com/smith-gary/github-readme-stats)
 
 <!--
 **smith-gary/smith-gary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
